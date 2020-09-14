@@ -18,7 +18,7 @@ namespace ConsoleApp16
 
             }
 
-
+            lst.Reverse();
            
 
         }
